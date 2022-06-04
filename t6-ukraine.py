@@ -23,3 +23,5 @@ list = x_list + y_list + X_list + Y_list + O_list
 
 random.shuffle(list)
 print(*list, sep = " ")
+
+#source: https://www.ohchr.org/en/news/2022/05/ukraine-civilian-casualty-update-27-may-2022
